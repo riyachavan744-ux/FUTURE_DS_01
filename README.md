@@ -6,15 +6,11 @@
 
 This project focuses on analyzing business sales data to uncover key insights and support data-driven decision-making using Power BI.
 
----
-
 ## 🎯 Objective
 - Analyze revenue trends  
 - Identify top-performing products  
 - Understand city-wise sales performance  
 - Discover key business insights from data  
-
----
 
 ## 📊 Dashboard Features
 - 💰 Total Revenue, Total Orders, Average Order Value, Units Sold  
@@ -24,14 +20,10 @@ This project focuses on analyzing business sales data to uncover key insights an
 - 🥧 City Revenue Share  
 - 📉 Price vs Sales Relationship  
 
----
-
 ## 🛠 Tools & Technologies
 - Power BI  
 - Data Cleaning & Transformation  
 - Data Visualization  
-
----
 
 ## 📈 Key Insights
 - Total Revenue: $80.58K  
@@ -44,19 +36,9 @@ This project focuses on analyzing business sales data to uncover key insights an
 - Revenue trends show fluctuations across days  
 - Relationship observed between price and total sales  
 
----
-
-## 📷 Dashboard Preview
-![Dashboard](sales_dashboard_preview.png)
-
----
-
 ## 📁 Files Included
-- `Sales_Dashboard.pbix`  
+- 'dasboard_Business Sales Performance analytics.pbix'
 - `sales_dashboard_preview.png`  
-- Dataset (if included)  
-
----
 
 ## 🎯 Outcome
 This project demonstrates my ability to:
@@ -64,12 +46,8 @@ This project demonstrates my ability to:
 - Build interactive dashboards  
 - Generate meaningful business insights  
 
----
-
 ## 🔗 Connect with Me
 I am actively learning and exploring Data Analytics.  
 Feel free to connect with me and share your feedback!
-
----
 
 ⭐ If you like this project, don’t forget to star the repository!
