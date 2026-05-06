@@ -38,7 +38,7 @@ This project focuses on analyzing business sales data to uncover key insights an
 
 ## 📁 Files Included
 - 'dasboard_Business Sales Performance analytics.pbix'
-- `sales_dashboard_preview.png`  
+- 'sales_dashboard_preview.png'
 
 ## 🎯 Outcome
 This project demonstrates my ability to:
