@@ -20,7 +20,7 @@ This project focuses on analyzing business sales data to uncover key insights an
 -  City Revenue Share  
 -  Price vs Sales Relationship  
 
-##Tools & Technologies
+  Tools & Technologies
 - Power BI  
 - Data Cleaning & Transformation  
 - Data Visualization  
